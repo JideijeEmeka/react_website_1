@@ -2,8 +2,8 @@ import React from 'react';
 import CardItem from './CardItem';
 import './Cards.css'
 
-function Cards() {
-  return (
+function Cards() { 
+  return ( 
     <div className = 'cards'>
         <h1>Check out these EPIC destinations</h1>
         <div className = 'cards__container'>
