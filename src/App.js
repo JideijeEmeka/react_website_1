@@ -7,8 +7,8 @@ import Home from './components/pages/Home';
 function App() {
   return (
     <>
-      <Router>
-      <Navbar/> 
+      <Router>  
+      <Navbar/>   
       <Routes>
         <Route path = '/' element = {<Home/>}/>
       </Routes>
