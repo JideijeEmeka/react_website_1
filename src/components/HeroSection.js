@@ -19,7 +19,7 @@ function HeroSection() {
             <i className = 'far fa-play-circle'/> 
             </Button>
             </div>  
-    </div> . 
+    </div>
   )
 }
 
