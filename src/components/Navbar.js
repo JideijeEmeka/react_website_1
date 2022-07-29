@@ -16,7 +16,7 @@ function Navbar() {
     }else{
       setButton(true)
     }
-  }
+  }   
 
   window.addEventListener('resize', showButton);
 

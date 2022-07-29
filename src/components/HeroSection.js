@@ -18,7 +18,7 @@ function HeroSection() {
             buttonStyle = 'btn--primary'>WATCH TRAILER 
             <i className = 'far fa-play-circle'/> 
             </Button>
-            </div>  
+            </div>     
     </div>
   )
 }
